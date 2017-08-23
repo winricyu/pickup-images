@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PickupImages</string>
+    <string name="data_counts">新增%1$d張 總共有%2$d張照片</string>
+</resources>
